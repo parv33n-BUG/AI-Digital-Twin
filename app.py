@@ -1,4 +1,3 @@
-pip install --quiet langchain langchain-google-genai gradio
 import os
 import gradio as gr
 from datetime import datetime
